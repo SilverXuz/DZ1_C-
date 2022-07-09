@@ -1,4 +1,4 @@
-﻿Console.Write("Введите целое положительное число: ");
+﻿Console.Write("Введите целое число: ");
 int a;
 a = Convert.ToInt32(Console.ReadLine());
 if (a % 2 == 0)
